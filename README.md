@@ -4,7 +4,7 @@
 
 A simple TUI program written in Haskell with the [brick](https://github.com/jtdaugherty/brick) library. All it does is present the user with a single line of text in a bordered box. The line is randomly chosen from a text file provided to the program on the command line.
 
-Inspired by the famous _Oblique Strategies_ cards created by Brian Eno and Peter Schmidt. The repo includes an example text file of strategies to use, which contains lines from the original _Oblique Strategies_ deck.
+Inspired by the famous _[Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies)_ cards created by Brian Eno and Peter Schmidt. The repo includes an example text file of strategies to use, which contains lines from the original _Oblique Strategies_ deck.
 
 ---------------------------------------------------------------------------------
 
